@@ -20,5 +20,5 @@ To run this project you need to:
 5. Enter 'c' if you want to convert files only in the current folder or enter 's' if you want to convert also in subfolders.
 6. Bravo, you have successfully converted the files. You will find them next to the original files :)
 
-##Sources
+## Sources
 This project is inspired by the precompiled cwebp conversion tool from Google.
